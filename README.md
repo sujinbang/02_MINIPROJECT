@@ -23,9 +23,29 @@ EDA 기반의 데이터 분석 및 시각화를 진행하였으며. Scikit-learn
 
 ### 문제점 분석
 <img src="https://user-images.githubusercontent.com/104615408/200116235-745bce21-2876-4d79-8a1e-8ac1447b5b51.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173223-76d4cfb9-c148-4507-b909-d2e52f472524.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173273-a457242c-8b2f-479e-8fe9-a59932128925.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173283-b7727600-4de6-44cd-b39c-53aae555cfb9.png" width="60%" height="60%">
+
+### T-검정, 상관관계분석
+<img src="https://user-images.githubusercontent.com/104615408/200173320-6d4c338e-5d0d-4e98-b321-164b8b7fcf1a.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173346-ed6d59b2-8134-4f32-bf90-ee6711030d66.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173359-1f552b6e-7fc4-4d10-bb0d-25c256d51cdc.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173388-80a37d03-0cfd-4535-a371-f823bb9e7158.png" width="60%" height="60%">
+
+## ・Power BI 
+[File Download](https://github.com/sujinbang/02_MINIPROJECT/tree/main/BI) >> file_name : BI_이륜차사고분석.pbix <br>
+<br>
+<img src="https://user-images.githubusercontent.com/104615408/200173536-9fff4208-c9cb-44b4-a26d-d0fd28cac65d.png" width="60%" height="60%">
 
 
 
 
 ## ・웹사이트 구현
-[영상](
+[영상 미리보기](https://github.com/sujinbang/02_MINIPROJECT/tree/main/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81)<br>
+<br>
+<img src="https://user-images.githubusercontent.com/104615408/200173844-c7db5ec3-8853-4a6e-83c8-262023516e8b.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173932-0ff23756-aee6-41c4-8395-9857ccc83298.png" width="60%" height="60%">
+<img src="https://user-images.githubusercontent.com/104615408/200173957-a0bafc7f-51cb-4388-b240-d0d6c9230c98.png" width="60%" height="60%">
+
+
